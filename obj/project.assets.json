@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mani/Documents/Projects/ASPLearn/Gamestore.Api/Gamestore.Api.csproj",
+      "projectUniqueName": "/Users/mani/Documents/Projects/ASPLearn/Gamestore.Api.csproj",
       "projectName": "Gamestore.Api",
-      "projectPath": "/Users/mani/Documents/Projects/ASPLearn/Gamestore.Api/Gamestore.Api.csproj",
+      "projectPath": "/Users/mani/Documents/Projects/ASPLearn/Gamestore.Api.csproj",
       "packagesPath": "/Users/mani/.nuget/packages/",
-      "outputPath": "/Users/mani/Documents/Projects/ASPLearn/Gamestore.Api/obj/",
+      "outputPath": "/Users/mani/Documents/Projects/ASPLearn/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mani/.nuget/NuGet/NuGet.Config"
