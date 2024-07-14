@@ -1,7 +1,7 @@
 
 
-namespace ASPLearn.Entities;
-
+namespace ASPLearn.Entities
+{
     public class Game
     {
         public int Id { get; set; }
@@ -11,3 +11,4 @@ namespace ASPLearn.Entities;
 
         
     }
+}
