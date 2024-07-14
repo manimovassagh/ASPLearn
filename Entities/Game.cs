@@ -9,6 +9,5 @@ namespace ASPLearn.Entities
 
         public decimal Price { get; set; }
 
-        
     }
 }
